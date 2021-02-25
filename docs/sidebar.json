@@ -1,0 +1,6 @@
+{
+  "template": {
+    "Overview": "/",
+    "Template dev": "core.html"
+  }
+}
